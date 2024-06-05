@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 119c1bd3601648f28a252a6030e067b6, type: 3}
   m_Name: UnityFigmaBridgeSettings
   m_EditorClassIdentifier: 
-  DocumentUrl: figma.com/design/B4KVNl8TbH8BLnuBgetaUV/HyperCargo?node-id=0-1&t=PivAHKjOeJ55Mvem-1
+  DocumentUrl: https://www.figma.com/file/B4KVNl8TbH8BLnuBgetaUV/HyperCargo?m=auto&t=dCKwZHaVqA3x4vX1-6
   BuildPrototypeFlow: 1
-  RunTimeAssetsScenePath: 
+  RunTimeAssetsScenePath: Assets/Figma Bridge.unity
   EnableAutoLayout: 0
   ScreenBindingNamespace: 
   ServerRenderImageScale: 3
